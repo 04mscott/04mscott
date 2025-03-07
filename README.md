@@ -3,7 +3,7 @@
 Hello, I'm Mason. I'm a student at the University of Maryland - College Park, Computer Science major on the Data Science track and Statistics Minor. I have a solid background in Software Engineering and I am very passionate about Data Science and Machine Learning. Please check out my personal [website](https://masonscott.net)!
 
 ## 📚 Projects
-Here is my full portfolio, where I showcase my [projects](https://github.com/04mscott/Portfolio/blob/main/README.md).
+Here is my full portfolio, where I showcase my [projects](https://github.com/04mscott/Portfolio/tree/main).
 
 ## ⚒️ Skills
 + Languages
