@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
+![title image](https://github.com/04mscott/04mscott/blob/main/title.png)
+Hello, I'm Mason. I'm a student at the University of Maryland - College Park, Computer Science major on the Data Science track and Statistics Minor. I have a solid background in Software Engineering and I am very passionate about Data Science and Machine Learning. Please check out my personal [website](https://masonscott.net)!
 
-<!--
-**04mscott/04mscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Projects
+Here is my full portfolio, where I showcase my [projects]().
 
-Here are some ideas to get you started:
+## ⚒️ Skills
++ Languages
+  + Python
+  + Java
+  + C
+  + SQL
+  + JavaScript
+  + CSS
+  + HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Frameworks & Libraries
+  + Pandas
+  + Tensorflow
+  + React
+  + Spring Boot
+ 
++ Tools & Platforms
+  + Jupyter Notebooks
+  + MySQL
+  + AWS RDS & EC2
+  + VS Code
+  + PyCharm
+  + IntelliJ Idea
+ 
+## 👋🏻 Connect with Me
++ [LinkedIn](https://www.linkedin.com/in/mason-t-scott/)
