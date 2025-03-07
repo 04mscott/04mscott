@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋🏻 Hi there 
 ![title image](https://github.com/04mscott/04mscott/blob/main/title.png)
 Hello, I'm Mason. I'm a student at the University of Maryland - College Park, Computer Science major on the Data Science track and Statistics Minor. I have a solid background in Software Engineering and I am very passionate about Data Science and Machine Learning. Please check out my personal [website](https://masonscott.net)!
 
