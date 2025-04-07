@@ -27,7 +27,7 @@ Explore my full portfolio of completed and in-progress [projects](https://github
 
 ### Tools & Platforms
 - MySQL
-- AWS (RDS, EC2)
+- AWS (RDS)
 - Jupyter Notebooks
 - VS Code, PyCharm, IntelliJ
 
