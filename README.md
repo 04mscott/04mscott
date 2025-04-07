@@ -1,33 +1,35 @@
 # 👋🏻 Hi there 
 ![title image](https://github.com/04mscott/04mscott/blob/main/title.png)
-Hello, I'm Mason. I'm a student at the University of Maryland - College Park, Computer Science major on the Data Science track and Statistics Minor. I have a solid background in Software Engineering and I am very passionate about Data Science and Machine Learning. Please check out my personal [website](https://masonscott.net)!
+
+
+Hi, I'm **Mason Scott**, a Computer Science student at the University of Maryland - College Park, specializing in Data Science with a minor in Statistics. I have a solid foundation in software engineering and a strong passion for data science and machine learning.
+
+Check out my personal [website](https://masonscott.net) to learn more!
 
 ## 📚 Projects
-Here is my full portfolio, where I showcase my [projects](https://github.com/04mscott/Portfolio/tree/main).
+Explore my full portfolio of completed and in-progress [projects](https://github.com/04mscott/Portfolio/tree/main).
 
 ## ⚒️ Skills
-+ Languages
-  + Python
-  + Java
-  + C
-  + SQL
-  + JavaScript
-  + CSS
-  + HTML
 
-+ Frameworks & Libraries
-  + Pandas
-  + Tensorflow
-  + React
-  + Spring Boot
- 
-+ Tools & Platforms
-  + Jupyter Notebooks
-  + MySQL
-  + AWS RDS & EC2
-  + VS Code
-  + PyCharm
-  + IntelliJ Idea
- 
+### Languages
+- Python
+- Java
+- C
+- SQL
+- JavaScript
+- HTML/CSS
+
+### Frameworks & Libraries
+- React
+- Spring Boot
+- Pandas
+- TensorFlow
+
+### Tools & Platforms
+- MySQL
+- AWS (RDS, EC2)
+- Jupyter Notebooks
+- VS Code, PyCharm, IntelliJ
+
 ## 👋🏻 Connect with Me
 + [LinkedIn](https://www.linkedin.com/in/mason-t-scott/)
