@@ -7,7 +7,7 @@ Hi, I'm **Mason Scott**, a Computer Science student at the University of Marylan
 Check out my personal [website](https://masonscott.net) to learn more!
 
 ## 📚 Projects
-Explore my full portfolio of completed and in-progress [projects](https://github.com/04mscott/Portfolio/tree/main).
+Explore my full portfolio of completed and in-progress [projects](https://github.com/04mscott/Portfolio/blob/main/README.md).
 
 ## ⚒️ Skills
 
