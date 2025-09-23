@@ -20,6 +20,7 @@ Explore my full portfolio of completed and in-progress [projects](https://github
 - HTML/CSS
 
 ### Frameworks & Libraries
+- LangChain / LangGraph
 - React
 - Spring Boot
 - Pandas
