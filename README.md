@@ -1,4 +1,4 @@
-# 👋🏻 Hi there 
+# Hi there 
 ![title image](https://github.com/04mscott/04mscott/blob/main/title.png)
 
 
@@ -6,10 +6,10 @@ Hi, I'm **Mason Scott**, a Computer Science student at the University of Marylan
 
 Check out my personal [website](https://masonscott.net) to learn more!
 
-## 📚 Projects
+## Projects
 Explore my full portfolio of completed and in-progress [projects](https://github.com/04mscott/Portfolio/blob/main/README.md).
 
-## ⚒️ Skills
+## Skills
 
 ### Languages
 - Python
@@ -32,5 +32,5 @@ Explore my full portfolio of completed and in-progress [projects](https://github
 - Jupyter Notebooks
 - VS Code, PyCharm, IntelliJ
 
-## 👋🏻 Connect with Me
+## Connect with Me
 + [LinkedIn](https://www.linkedin.com/in/mason-t-scott/)
